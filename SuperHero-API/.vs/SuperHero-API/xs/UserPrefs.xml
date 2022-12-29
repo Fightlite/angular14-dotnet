@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{164F27C5-4B45-4C6C-9088-19676B2704FF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHero-API/Controllers/SuperHeroController.cs">
+    <Files>
+      <File FileName="SuperHero-API/Properties/launchSettings.json" Line="16" Column="48" />
+      <File FileName="SuperHero-API/SuperHero.cs" />
+      <File FileName="SuperHero-API/Controllers/WeatherForecastController.cs" />
+      <File FileName="SuperHero-API/Controllers/SuperHeroController.cs" Line="71" Column="1" />
+      <File FileName="SuperHero-API/Data/DataContext.cs" Line="17" Column="39" />
+      <File FileName="SuperHero-API/Program.cs" Line="14" Column="89" />
+      <File FileName="SuperHero-API/Migrations/20221228092857_Initial.cs" Line="12" Column="37" />
+      <File FileName="SuperHero-API/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHero-API" expanded="True">
+            <Node name="SuperHero-API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SuperHero-API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
